@@ -1,4 +1,6 @@
 # module
+# author: Fransiskus Agapa
+
 import mymodule as mm
 import goodbye as gb
 import Greeting as g
