@@ -6,12 +6,10 @@ Objective:
 
 Example output:
 
+![image](https://user-images.githubusercontent.com/97081479/180621536-1c1e592c-0540-46c1-b78f-d532361853de.png)
 
-![image](https://user-images.githubusercontent.com/97081479/180619397-2d0207dd-dc59-4305-9f6f-fd6b8f0d0d8e.png)
+![image](https://user-images.githubusercontent.com/97081479/180621566-e4fdf5f6-b576-4700-864c-4970686edc31.png)
 
-![image](https://user-images.githubusercontent.com/97081479/180619411-1d8e4759-c991-4c6a-b4ca-a5dab15a21c9.png)
-
-![image](https://user-images.githubusercontent.com/97081479/180619435-c623fd17-eae0-4fe6-b017-c477b8a26164.png)
-
+![image](https://user-images.githubusercontent.com/97081479/180621582-b97017bb-19fc-45ff-837d-40ecb0c5e768.png)
 
 
